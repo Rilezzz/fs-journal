@@ -1,12 +1,12 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > To push and store code
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > "Make Directory"
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > A "p" class is used to 
 
 04. What is ***specificity*** and how might you use it to your benefit?
     > | ANSWER HERE |
