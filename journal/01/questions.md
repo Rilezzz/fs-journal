@@ -12,19 +12,19 @@
     Answer: Specificity is the value a certain rule carries. It can be used to override a rule if two or more rules are targeting the same element and property.
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    Answer: 
+    Answer: Due to the specificity level having multiple !important tags will cause conflicting code.
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
     Answer: The 3 components to a CSS rule are a selector, property and value.
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    Answer: 
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    >Answer: Wireframings purpose is to allow a developer the ability to plan and organize a web app prior to actively writing code. i.e applications such as Figma give the develepor a tool to create a mock web app to follow while structuring the code.
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    Answer: I believe they are a great tool and definitely worth the time. Being able to see an idea prior to trying to create an idea from scratch with coding alone.
 
 10. Define the display `:flex property:`
     Answer: The display "Flex" allows for layouts to be placed on the webpage in a neat and organized manner to include subject alignment and spacing.
