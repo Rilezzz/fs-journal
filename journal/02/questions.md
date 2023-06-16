@@ -1,15 +1,15 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > let, const, var
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > Functions are subprogram designed to perform specific tasks.
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > 
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | 
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -38,11 +38,11 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > the statement within the parenthesis of an "if" statement.
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > 
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
