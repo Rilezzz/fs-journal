@@ -5,7 +5,7 @@
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > 
 
 03. What is Encapsulation?
   
@@ -17,7 +17,7 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > | ANSWER HE
 
 06. What is a computed Property?
   
