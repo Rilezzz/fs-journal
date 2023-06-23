@@ -5,7 +5,7 @@
 
 02. How does `export` differ from `export default`?
   
-  > 
+  > Export allows you to export multiple values while export default one exports one value.
 
 03. What is Encapsulation?
   
@@ -17,24 +17,24 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HE
+  > Class defines an object, an instance is a specific object created from a particular class.
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > They allow for values from expressions to be used as propert names of an object
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > It acts as a security while also allowing to write predictable and easily maintainable code.
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > Updates the module within your code. 
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > Updates the AppState
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > Handles the view of the Appstate.
