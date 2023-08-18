@@ -33,7 +33,7 @@
 
 07. In the Car example what is `abstract` preventing?
 
-  > 
+  > It is preventing the class from being instantiated.
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
@@ -41,8 +41,15 @@
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
-  > | ANSWER HERE |
+  > CREATE TABLE characters(
+  id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+  name VARCHAR(255) NOT NULL,
+  description VARCHAR(255),
+  age INT,
+)
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > SELECT class.name, instructor.name,
+FROM classes, instructors
+WHERE class.instructor = instructor.name
